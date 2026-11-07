@@ -1,0 +1,2 @@
+# Added by the conversion: retain vendored bytes in ordinary Git.
+* -filter -text !diff !merge

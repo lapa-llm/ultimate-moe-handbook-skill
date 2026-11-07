@@ -1,0 +1,54 @@
+{
+  "revision": "ef70726e6f8b99d74298a16a4894340f288a58c2",
+  "chapters": {
+    "1-introduction": {
+      "fragments": 4,
+      "headings": 1,
+      "tables": 0,
+      "code_blocks": 0,
+      "figures": 3
+    },
+    "2-setup-and-your-first-run": {
+      "fragments": 3,
+      "headings": 28,
+      "tables": 0,
+      "code_blocks": 25,
+      "figures": 2
+    },
+    "3-anatomy-of-moe-training": {
+      "fragments": 52,
+      "headings": 47,
+      "tables": 14,
+      "code_blocks": 90,
+      "figures": 52
+    },
+    "4-from-training-to-serving": {
+      "fragments": 6,
+      "headings": 6,
+      "tables": 0,
+      "code_blocks": 22,
+      "figures": 5
+    },
+    "5-conclusion": {
+      "fragments": 1,
+      "headings": 2,
+      "tables": 0,
+      "code_blocks": 1,
+      "figures": 0
+    },
+    "A-appendix": {
+      "fragments": 1,
+      "headings": 25,
+      "tables": 1,
+      "code_blocks": 20,
+      "figures": 0
+    }
+  },
+  "citation_popovers": 300,
+  "figure_occurrences": 62,
+  "unique_referenced_figures": 55,
+  "captured_gallery_figures": 55,
+  "debugging_symptoms": 42,
+  "original_files": 371,
+  "original_bytes": 11691419
+}
