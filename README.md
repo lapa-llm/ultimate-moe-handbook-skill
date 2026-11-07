@@ -35,4 +35,8 @@ To view the original interactive figures offline:
 python3 -m http.server --directory src/upstream/app/public 8000
 ```
 
-Open `http://localhost:8000/viz/index.html`. Source material retains its authorship and supplied notices; the pinned Space contains no explicit license file. The added skill guidance distinguishes handbook findings from adaptations and verifies exact software flags before transferring recipes to another version.
+Open `http://localhost:8000/viz/index.html`. The added skill guidance distinguishes handbook findings from adaptations and verifies exact software flags before transferring recipes to another version.
+
+## License
+
+Original skill instructions and tooling are licensed under the [MIT License](LICENSE), copyright 2026 Yurii Paniv. This license does not relicense third-party handbook material, including its vendored files, converted text, assets, and derived excerpts. That material retains its authorship and supplied notices; the pinned Space contains no explicit license file.
